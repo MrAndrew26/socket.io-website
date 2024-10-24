@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Introduction
+title: Competicion 
 sidebar_label: Introduction
 slug: introduction
 ---
